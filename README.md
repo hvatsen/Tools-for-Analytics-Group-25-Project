@@ -13,7 +13,7 @@ Authors
 
 Top10.ipynb
 -----------------------
-In this notebook, we analyzed the top 10 causes of calls to 311 in 10025 area. The steps to do that are as follows.
+In this notebook, we analyzed the top 10 causes of calls to 311 in 10025 area. The steps to do that are as follows:
 - Reading the csv files and storing it to a variable called df
 - Having a quick look at the df with df.info()
 - Checking the first couple of rows of the df with df.head()
@@ -24,6 +24,18 @@ In this notebook, we analyzed the top 10 causes of calls to 311 in 10025 area. T
 - Assigning the results to a variable called top10
 - Confirming the type of top10 variable where we expected it to be a pandas.Series
 - Showing and checking the labels and values of the top10 pandas.Series
+
+We find that the top 10 causes of calls to 311 in 10025 area are:
+1. Noise - Residential (2952)
+2. Noise - Street/Sidewalk (2128)
+3. HEAT/HOT WATER (1885)
+4. Noise (1131)
+5. Illegal Parking (792)
+6. Noise - Vehicle (787)
+7. Non-Emergency Police Matter (773)
+8. Rodent (691)
+9. Illegal Fireworks (672)
+10. UNSANITARY CONDITION (565)
 
 
 
