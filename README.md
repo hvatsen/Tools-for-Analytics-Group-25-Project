@@ -1,7 +1,7 @@
 # Tools-for-Analytics-Group-Project
 By Andree and Harish
 
-This is Group 25's submission for the TFA Group Project. This github contains 2 notebooks, Top10.ipynb and Parking.ipynb.
+This is Group 25's submission for the TFA Group Project. This github contains two (2) notebooks, Top10.ipynb and Parking.ipynb.
 
 
 Authors
@@ -43,9 +43,9 @@ Parking.ipynb
 -----------------------
 In this notebook, we analyze whether illegal parking incidents are a larger fraction of total 311 incidents in the 10025 area than they are in general. The steps are as follows:
 - Reading the csv files and storing it to a variable called df
-- Checking whether the column 'Complaint Type' has null value or not
+- Checking whether the column 'Complaint Type' has null value or not and there is no null value
 - Defining the zipcode as 10025
-- Filtering the original df with zipcode= 10025, and creating a new filtered df
+- Filtering the original df with zipcode = 10025, and creating a new filtered df
 - Counting the total number of illegal parking, and the total number of complaints in the filtered df
 - Counting the proportion of illegal parking vs the total number of complaints in the filtered df
 - Counting the total number of illegal parking, and the total number of complaints in the original df
