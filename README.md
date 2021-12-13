@@ -1,13 +1,20 @@
 # Tools-for-Analytics-Group-Project
 By Andree and Harish
 
-This is Group 25's submission for the TFA Group Project. This github contains two (2) notebooks, Top10.ipynb and Parking.ipynb.
+This is Group 25's submission for the TFA Group Project in Section 2 (Tuesday, 19.10 - 21.40). This github contains two (2) notebooks, Top10.ipynb and Parking.ipynb.
+
 
 
 Authors
 -------------------
 1. Andree Makahinda (abm2203)
 2. Harish Vatsen (hv2228)
+
+
+
+List of Authors' UNI
+-------------------
+['abm2203', 'hv2228']
 
 
 
